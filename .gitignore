@@ -1,0 +1,3 @@
+python-env/
+data/downloaded/*.xls
+.ipynb_checkpoints/
